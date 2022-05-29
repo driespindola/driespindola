@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @driespindola
 - 👀 I’m interested in web3 development
-- 🌱 I’m currently learning html css and javascript
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me: @_driespindola on twitter
 
